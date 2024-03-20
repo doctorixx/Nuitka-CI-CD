@@ -2,7 +2,7 @@ import dearpygui.dearpygui as dpg
 import dearpygui.demo as demo
 
 dpg.create_context()
-dpg.create_viewport(title='Demo', width=600, height=600)
+dpg.create_viewport(title='Nuitka CI/CD info', width=600, height=600)
 
 demo.show_demo()
 
