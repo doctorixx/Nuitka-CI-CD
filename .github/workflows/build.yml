@@ -1,4 +1,4 @@
-on: deployment
+on: push
 jobs:
   build:
      strategy:
